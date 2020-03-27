@@ -1,8 +1,6 @@
-# Hello World React App
-
-`create-react-app` create a lot of files which is not necessary at this point so delete all those files and put only `index.js` inside src folder.
-
 # Hello World Program
+
+We know that every program starts with Hello World.
 
 ```js
 import React from 'react'
