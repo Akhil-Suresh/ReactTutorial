@@ -16,4 +16,4 @@ We need to import react and react-dom libraries.
 
 ## The program can be run using command
 
-`npm start` it will bring up `Hello World`.
+`npm start` it will bring up `Hello World` in the browser.
