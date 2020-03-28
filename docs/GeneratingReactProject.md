@@ -52,3 +52,18 @@ Create react app behind the scene setup a ton of dependencies that's necessary f
     package.json        -> Records our project dependencies
     package-lock.json   -> Exact version of packages that we install.
     Readme.md           -> Instruction on how to use project.
+
+
+## Starting and stopping React application
+
+To start and stop react application 
+
+To start project
+
+    cd <app-name>
+    npm start
+
+To stop the project
+
+    cntrl + c
+
