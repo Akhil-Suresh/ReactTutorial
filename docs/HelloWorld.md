@@ -1,25 +1,19 @@
-# Hello World Program
+# Hello World
 
-We know that every program starts with Hello World.
+We know that every program starts with *Hello World!*. 
+
+This is how a **hello world** program looks like in React.
 
 ```js
 import React from 'react'
 import ReactDOM from 'react-dom'
 
 
-ReactDOM.render(
-    <div><h1>Hello World</h1></div> ,
-    document.getElementById('root')
-);
+ReactDOM.render(<div> Hello World! </div> , document.getElementById('root') );
 ```
 
 We need to import react and react-dom libraries.
 
-When we run `npm start` it will bring up `Hello World`.
+The program can be run using command
 
-The First part
-     <div> 
-        <h1> Hello World </h1> 
-    </div>
-    
-Is called JSX
+`npm start` it will bring up `Hello World`.
